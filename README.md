@@ -14,7 +14,7 @@
 
 דוקומנטציה: 
 עבור כל בקשות ה-API שלהלן, יש להשתמש בכתובת ה-URL הבאה: 
-https://feed.b-elect.com/fm1
+https://app.seker.live/fm1/
 
 
 בקשה מספר 1: 
